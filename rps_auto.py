@@ -36,4 +36,3 @@ print("Computer 2 won",c2_score,"times.")
 print("There was a draw",draw,"times.")
 print("Percentage distribution is "+str(c1_score/iter)+"% "+ str(c2_score/iter)+"% "+ str(draw/iter)+"%.")
 print("The highest percent was "+str(max(c1_score,c2_score,draw)/iter)+"%")
-#cat
